@@ -3,9 +3,9 @@ entries:
   haylen:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-11-10T14:25:48.101078-06:00"
+    created: "2022-11-11T13:50:05.172669-06:00"
     description: A Helm chart for Kubernetes
-    digest: d98cd4b96dc77f50df1348f496ea19e204cc1ebab78730d8edaa8a8706255dd3
+    digest: 0029069038b834ea6ee1e027d388ea6921dde49952ba1a5eff7bee78b2a7a76b
     name: haylen
     type: application
     urls:
@@ -14,12 +14,12 @@ entries:
   weston:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2022-11-10T14:25:48.102061-06:00"
+    created: "2022-11-11T13:50:05.174428-06:00"
     description: A Helm chart for Kubernetes
-    digest: f03a7328c7f1f8ba8366a38c49ed08927683fb25f8b2fba025bc18d221d3f881
+    digest: 2d4f72bcbc13a1f057e35112febafa9de96c4fef9392abd93133fd12eb458246
     name: weston
     type: application
     urls:
     - https://auswells.github.io/engineering-summit-helm-charts/weston-1.0.0.tgz
     version: 1.0.0
-generated: "2022-11-10T14:25:48.097636-06:00"
+generated: "2022-11-11T13:50:05.171007-06:00"
